@@ -1,0 +1,52 @@
+/* General Resets */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply a basic font */
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(255, 254, 254);
+  }
+.instagramcontainer{
+
+}
+.instagram-header{
+
+
+
+
+}
+.carousel-images{
+border-radius: 50%;
+justify-content: space-around;
+margin-right: ;
+
+}
+.lower_header{
+justify-content: flex-end;
+align-items: self-end;
+display: flex;
+justify-content: flex-start;
+
+}
+.center-stage{
+color: rgb(0, 0, 0);
+
+
+}
+
+h1{
+  font-family: "Dancing Script", cursive;;
+  color: rgb(0, 0, 0);
+}
+h3{
+    color: rgb(0, 0, 0);
+}
+
+
+.imm{
+    border-radius: 50%;
+}
